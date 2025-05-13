@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Proyecto de ventas");
+            Console.WriteLine("Proyecto de venta");
         }
     }
 }
