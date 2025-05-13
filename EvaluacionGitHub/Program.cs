@@ -5,12 +5,12 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Proyecto de venta");
-            Console.ReadKey();
+            MostrarDatos();
         }
-         public void MostrarDatos()
+         static void MostrarDatos()
         {
             Console.WriteLine("Samuel David Matute Perez, 24509707");
-            Console.ReadKey();
+            
         }
     }
 }
